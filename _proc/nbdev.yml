@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "FallingC_nbdev"
+  title: "FallingC-nbdev"
   site-url: "https://lnicole08.github.io/FallingC_nbdev"
   description: "Fallingchamber"
   repo-branch: main
